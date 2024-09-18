@@ -1,9 +1,10 @@
 # Finance-Recorder-User-Guide
-## What is finance Recorder?
-Finance Recorder is a personal finance management app designed to help you keep track of your income and expenses. With this app, you can record transactions, view detailed financial summaries, and analyze your spending patterns—all from your mobile device.
 
 # DISCLAIMER
 The Finance Recorder app is currently in development and may experience instability, including crashes, bugs, or data loss. By using this app, you acknowledge that it is provided "as-is" and that we make no guarantees regarding its performance, accuracy, or reliability.
+
+## What is finance Recorder?
+Finance Recorder is a personal finance management app designed to help you keep track of your income and expenses. With this app, you can record transactions, view detailed financial summaries, and analyze your spending patterns—all from your mobile device.
 
 We are not responsible for any loss of data, financial loss, or any other damages that may occur as a result of using this app. Please use it at your own risk. If you encounter issues, we recommend backing up your data regularly and contacting our support team for assistance
 
